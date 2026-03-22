@@ -1,0 +1,9 @@
+#myCanvas {
+    display: flex;
+    align-self: bottom;
+    justify-self: center;
+}
+
+body {
+    background-color: darkslateblue;
+}
